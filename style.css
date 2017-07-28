@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+#userinput div{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#weatherdisplay div p{
+    display: inline-block;
+    letter-spacing: 2px;
+
+}
